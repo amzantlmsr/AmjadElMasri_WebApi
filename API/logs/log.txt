@@ -1,0 +1,18 @@
+DEBUG 2018-10-22 15:44:43,553   198ms HomeController         Index              - Debug message
+WARN  2018-10-22 15:44:43,570   215ms HomeController         Index              - Warn message
+ERROR 2018-10-22 15:44:43,571   216ms HomeController         Index              - Error message
+FATAL 2018-10-22 15:44:43,571   216ms HomeController         Index              - Fatal message
+DEBUG 2018-10-22 15:47:41,751   213ms HomeController         Index              - Debug message
+WARN  2018-10-22 15:47:41,770   232ms HomeController         Index              - Warn message
+ERROR 2018-10-22 15:47:41,771   233ms HomeController         Index              - Error message
+FATAL 2018-10-22 15:47:41,771   233ms HomeController         Index              - Fatal message
+ERROR 2018-10-22 15:47:50,040  8502ms omerContactsController pdateContacdeletet - System.Web.Http.Results.BadRequestResult
+DEBUG 2018-10-22 15:48:37,373   202ms HomeController         Index              - Debug message
+WARN  2018-10-22 15:48:37,386   215ms HomeController         Index              - Warn message
+ERROR 2018-10-22 15:48:37,387   216ms HomeController         Index              - Error message
+FATAL 2018-10-22 15:48:37,387   216ms HomeController         Index              - Fatal message
+ERROR 2018-10-22 15:48:49,325 12155ms omerContactsController pdateContacdeletet - System.Web.Http.Results.BadRequestResult
+DEBUG 2018-10-22 15:49:48,608   202ms HomeController         Index              - Debug message
+WARN  2018-10-22 15:49:48,621   215ms HomeController         Index              - Warn message
+ERROR 2018-10-22 15:49:48,621   215ms HomeController         Index              - Error message
+FATAL 2018-10-22 15:49:48,621   215ms HomeController         Index              - Fatal message
